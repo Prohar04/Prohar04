@@ -29,7 +29,7 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 ## 📊 GitHub Stats
 
-![Prohar's GitHub Contribution Graph](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark)
+![Prohar's GitHub Contribution Graph](https://streak-stats.demolab.com?user=Prohar04&theme=dark)
 
 ---
 
