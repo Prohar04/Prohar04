@@ -27,11 +27,9 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 ---
 
-## 📊 GitHub Stats
+![Prohar GitHub Stats](https://stats.dooboo.io/api/github-stats?username=Prohar04)
 
-![GitHub Stats](https://github-readme-stats-evirunurm.vercel.app/api?username=Prohar04&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-evirunurm.vercel.app/api/top-langs/?username=Prohar04&layout=compact&theme=radical)
+![Top Languages](https://stats.dooboo.io/api/top-langs?username=Prohar04)
 
 ---
 
