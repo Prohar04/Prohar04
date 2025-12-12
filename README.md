@@ -56,18 +56,18 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prohor04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/prohor.saha.982131/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/prohor_saha04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" alt="Instagram" />
-  </a>
-</p>
-
+<a href="https://www.linkedin.com/in/prohor04/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/prohor.saha.982131/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/prohor_saha04/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" alt="Instagram" />
+</a>
+<br>
 
 **Email:** [sahaprohar10@gmail.com](mailto:sahaprohar10@gmail.com)
 
