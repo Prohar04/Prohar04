@@ -67,7 +67,8 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 <a href="https://www.instagram.com/prohor_saha04/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" alt="Instagram" />
 </a>
-<br>
+
+<br />
 
 **Email:** [sahaprohar10@gmail.com](mailto:sahaprohar10@gmail.com)
 
