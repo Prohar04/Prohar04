@@ -29,9 +29,9 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 ## 📊 GitHub Stats
 
-![Prohar GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prohar04&show_icons=true&theme=tokyonight)
+![Prohar GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prohar04&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prohar04&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prohar04&layout=compact&theme=tokyonight)
 
 ---
 
