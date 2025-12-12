@@ -29,7 +29,9 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 ## 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prohar04&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prohar04&theme=tokyonight" alt="Profile Details" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prohar04&theme=tokyonight" alt="Stats" />
