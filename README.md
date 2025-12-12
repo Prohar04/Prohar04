@@ -1,29 +1,37 @@
+<div align="center">
+
 # Hey there! 👋 I'm Prohar Saha Polak
 
 ### Full-Stack Developer | Computer Science Student | Problem Solver
 
 I'm a passionate Computer Science student at **BRAC University** with hands-on experience in full-stack web development. I love turning ideas into functional, user-friendly systems with clean code and efficient design.
 
+</div>
+
 ---
 
-## 💻 Languages and Tools
+## 💻 Tech Stack
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" /></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></a>
-
-<br />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-Building practical, scalable solutions is my passion. I focus on clean code, great user experience, and continuous learning. Currently diving into AWS and exploring cloud technologies.
+- 🎓 Computer Science student at **BRAC University**
+- 💡 Passionate about building **scalable web applications**
+- 🌱 Currently learning **AWS** and **Cloud Technologies**
+- 🔭 Focus on **clean code** and **great user experience**
+- ⚡ Always exploring new technologies and best practices
 
 ---
 
@@ -31,7 +39,7 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prohar04&theme=tokyonight" alt="Profile Details" />
-</p> 
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prohar04&theme=tokyonight" alt="Stats" />
@@ -45,33 +53,43 @@ Building practical, scalable solutions is my passion. I focus on clean code, gre
 
 ---
 
-## 🌱 Learning
+## 🌱 Currently Learning
 
-- Advanced Django & Backend Optimization
-- AWS Academy Certification
-- Modern Frontend Frameworks
-- Scalable System Design
-
----
-
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/prohor04/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/prohor.saha.982131/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="100" alt="Facebook" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/prohor_saha04/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" alt="Instagram" />
-</a>
-
-<br />
-
-**Email:** [sahaprohar10@gmail.com](mailto:sahaprohar10@gmail.com)
+| Area | Focus |
+|------|-------|
+| 🔧 Backend | Advanced Django & Optimization |
+| ☁️ Cloud | AWS Academy Certification |
+| 🎨 Frontend | Modern Frameworks (React) |
+| 📐 Architecture | Scalable System Design |
 
 ---
 
-*Thanks for visiting! Feel free to explore my projects.* 🚀
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/prohor04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/prohor.saha.982131/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/prohor_saha04/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:sahaprohar10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💬 *"Building solutions, one commit at a time."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prohar04&color=blue&style=flat-square)
+
+</div>
