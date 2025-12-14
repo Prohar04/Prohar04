@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Prohar Saha Polak
 
-### Full-Stack Developer | Computer Science Student | Problem Solver
+### Developer | Computer Science Student | Problem Solver
 
 I'm a passionate Computer Science student at **BRAC University** with hands-on experience in full-stack web development. I love turning ideas into functional, user-friendly systems with clean code and efficient design.
 
