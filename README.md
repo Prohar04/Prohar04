@@ -49,6 +49,13 @@ I'm a passionate Computer Science student at **BRAC University** with hands-on e
 
 </div>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prohar04/Prohar04/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
+</p>
+
+
 
 ---
 
