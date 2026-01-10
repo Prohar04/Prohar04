@@ -49,12 +49,13 @@ I'm a passionate Computer Science student at **BRAC University** with hands-on e
 
 </div>
 
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prohar04/Prohar04/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Prohar04&theme=tokyo-night&area=true&grid=true&radius=10&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Prohar04&theme=github-light&area=true&grid=true&radius=10&hide_border=true" />
+    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prohar04&theme=tokyo-night&area=true&grid=true&radius=10&hide_border=true" />
+  </picture>
 </p>
-
 
 
 ---
