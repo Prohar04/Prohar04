@@ -1,37 +1,104 @@
 <div align="center">
 
-# Hey there! 👋 I'm Prohar Saha Polak
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prohar%20Saha%20Polak&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20AI%20Builder&descAlignY=60&descSize=18&descColor=a8d8ea" alt="header" />
 
-### Developer | Computer Science Student | Problem Solver
-
-I'm a passionate Computer Science student at **BRAC University** with hands-on experience in full-stack web development. I love turning ideas into functional, user-friendly systems with clean code and efficient design.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;Full-Stack+Dev+with+Django+%26+MERN;AI+Platform+Builder+%F0%9F%A4%96;AWS+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
+```python
+class ProharSahaPolak:
+    def __init__(self):
+        self.name        = "Prohar Saha Polak"
+        self.university  = "BRAC University — Computer Science"
+        self.location    = "Dhaka, Bangladesh 🇧🇩"
+        self.focus       = ["Full-Stack Web Dev", "AI-Powered Platforms", "Scalable Systems"]
+        self.learning    = ["AWS Cloud", "System Design", "Advanced React"]
+        self.competitive = ["LeetCode", "HackerRank"]
+        self.quote       = "Building solutions, one commit at a time."
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something great together.")
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### Cloud & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-- 🎓 Computer Science student at **BRAC University**
-- 💡 Passionate about building **scalable web applications**
-- 🌱 Currently learning **AWS** and **Cloud Technologies**
-- 🔭 Focus on **clean code** and **great user experience**
-- ⚡ Always exploring new technologies and best practices
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Prohar04/EducAI">EducAI</a></h3>
+      <p><strong>AI-Powered Study Abroad Guidance Platform</strong></p>
+      <p>Full-stack AI platform guiding international students from profile setup to acceptance — with AI program matching, scholarship discovery, SOP/CV generation, visa planning, and career forecasting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p>🔗 <a href="https://educai-web.vercel.app">Live Demo</a> · 297 commits · CI/CD via GitHub Actions</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎉 <a href="https://github.com/Prohar04/EventNest">EventNest</a></h3>
+      <p><strong>Scalable Event Management Platform</strong></p>
+      <p>Comprehensive event services marketplace for the Bangladesh market — featuring service booking, an e-commerce store, wishlist, real-time notifications, and a modern dark UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>🔗 <a href="https://eventnest00.pythonanywhere.com">Live Demo</a> · 76 commits · Deployed on PythonAnywhere</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,17 +124,30 @@ I'm a passionate Computer Science student at **BRAC University** with hands-on e
   </picture>
 </p>
 
-
 ---
 
 ## 🌱 Currently Learning
 
 | Area | Focus |
 |------|-------|
-| 🔧 Backend | Advanced Django & Optimization |
 | ☁️ Cloud | AWS Academy Certification |
-| 🎨 Frontend | Modern Frameworks (React) |
-| 📐 Architecture | Scalable System Design |
+| 🎨 Frontend | Advanced React Patterns |
+| 🤖 AI/ML | LLM Integration & Prompt Engineering |
+| 📐 Architecture | Distributed Systems & Scalable Design |
+
+---
+
+## 🏆 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/Prohor04/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/prohar_04" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -75,19 +155,19 @@ I'm a passionate Computer Science student at **BRAC University** with hands-on e
 
 <p>
   <a href="https://www.linkedin.com/in/prohor04/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/prohor.saha.982131/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/prohor_saha04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:sahaprohar10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -97,6 +177,8 @@ I'm a passionate Computer Science student at **BRAC University** with hands-on e
 
 ### 💬 *"Building solutions, one commit at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prohar04&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Prohar04&color=2C9CDB&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="footer" />
 
 </div>
