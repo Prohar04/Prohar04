@@ -72,7 +72,7 @@ class ProharSahaPolak:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <h3>🤖 <a href="https://github.com/Prohar04/EducAI">EducAI</a></h3>
       <p><strong>AI-Powered Study Abroad Guidance Platform</strong></p>
       <p>Full-stack AI platform guiding international students from profile setup to acceptance — with AI program matching, scholarship discovery, SOP/CV generation, visa planning, and career forecasting.</p>
