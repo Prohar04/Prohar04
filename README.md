@@ -83,7 +83,11 @@ class ProharSahaPolak:
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <p>🔗 <a href="https://educai-web.vercel.app">Live Demo</a> · 297 commits · CI/CD via GitHub Actions</p>
+      <p>
+        🔗 <a href="https://educai-web.vercel.app">Live Demo</a> ·
+        <img src="https://img.shields.io/github/commit-activity/t/Prohar04/EducAI?style=flat-square&label=commits&color=2C9CDB" alt="EducAI total commits" />
+        · CI/CD via GitHub Actions
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🎉 <a href="https://github.com/Prohar04/EventNest">EventNest</a></h3>
@@ -95,7 +99,11 @@ class ProharSahaPolak:
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <p>🔗 <a href="https://eventnest00.pythonanywhere.com">Live Demo</a> · 76 commits · Deployed on PythonAnywhere</p>
+      <p>
+        🔗 <a href="https://eventnest00.pythonanywhere.com">Live Demo</a> ·
+        <img src="https://img.shields.io/github/commit-activity/t/Prohar04/EventNest?style=flat-square&label=commits&color=2C9CDB" alt="EventNest total commits" />
+        · Deployed on PythonAnywhere
+      </p>
     </td>
   </tr>
 </table>
