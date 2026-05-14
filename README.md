@@ -73,38 +73,53 @@ class ProharSahaPolak:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Prohar04/EducAI">EducAI</a></h3>
-      <p><strong>AI-Powered Study Abroad Guidance Platform</strong></p>
-      <p>Full-stack AI platform guiding international students from profile setup to acceptance — with AI program matching, scholarship discovery, SOP/CV generation, visa planning, and career forecasting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        🔗 <a href="https://educai-web.vercel.app">Live Demo</a> ·
-        <img src="https://img.shields.io/github/commit-activity/t/Prohar04/EducAI?style=flat-square&label=commits&color=2C9CDB" alt="EducAI total commits" />
-        · CI/CD via GitHub Actions
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎉 <a href="https://github.com/Prohar04/EventNest">EventNest</a></h3>
-      <p><strong>Scalable Event Management Platform</strong></p>
-      <p>Comprehensive event services marketplace for the Bangladesh market — featuring service booking, an e-commerce store, wishlist, real-time notifications, and a modern dark UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <p>
-        🔗 <a href="https://eventnest00.pythonanywhere.com">Live Demo</a> ·
-        <img src="https://img.shields.io/github/commit-activity/t/Prohar04/EventNest?style=flat-square&label=commits&color=2C9CDB" alt="EventNest total commits" />
-        · Deployed on PythonAnywhere
-      </p>
-    </td>
+
+<h3>🤖 <a href="https://github.com/Prohar04/EducAI">EducAI</a></h3>
+<p><strong>AI-Powered Study Abroad Guidance Platform</strong></p>
+<p>
+Full-stack AI platform guiding international students from profile setup to acceptance —
+with AI program matching, scholarship discovery, SOP/CV generation, visa planning,
+and career forecasting.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<p>
+  🔗 <a href="https://educai-web.vercel.app">Live Demo</a><br/>
+  <img src="https://img.shields.io/github/commit-activity/t/Prohar04/EducAI?style=flat-square&label=commits&color=2C9CDB" alt="EducAI total commits" />
+  &nbsp;·&nbsp; CI/CD via GitHub Actions
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎉 <a href="https://github.com/Prohar04/EventNest">EventNest</a></h3>
+<p><strong>Scalable Event Management Platform</strong></p>
+<p>
+Comprehensive event services marketplace for the Bangladesh market — featuring service
+booking, an e-commerce store, wishlist, real-time notifications, and a modern dark UI.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p>
+  🔗 <a href="https://eventnest00.pythonanywhere.com">Live Demo</a><br/>
+  <img src="https://img.shields.io/github/commit-activity/t/Prohar04/EventNest?style=flat-square&label=commits&color=2C9CDB" alt="EventNest total commits" />
+  &nbsp;·&nbsp; Deployed on PythonAnywhere
+</p>
+
+</td>
   </tr>
 </table>
 
